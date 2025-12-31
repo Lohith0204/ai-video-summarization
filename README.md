@@ -3,7 +3,7 @@
 ## Live Demo
 Try out the deployed application here:
 
-🚀 **Streamlit App** → (Add your Streamlit URL here once deployed)
+🚀 **Streamlit App** → https://ai-video-summarization.streamlit.app/
 
 ## Overview
 This project is an AI-based video summarization application that automatically generates concise summaries from video content. The system extracts audio from uploaded videos, converts speech into text using the Whisper model, and then applies Natural Language Processing (NLP) techniques to summarize the transcribed content.
