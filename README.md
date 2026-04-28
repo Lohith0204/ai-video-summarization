@@ -35,6 +35,7 @@ AI-Video-Summarization/
 ├── assets
 │   └──Sample.mp4         # Sample video file  
 ├── gitignore.txt         # Ignore files
+├── LICENSE
 │
 ├── ai_engine/
 │   ├── speech.py         # Video audio transcription logic
